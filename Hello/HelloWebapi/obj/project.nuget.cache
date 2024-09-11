@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "StRhgJ82hDUiLPrTuFTGGvGSwV7Qif7h+Pw29TWcTQ7mmuRMxtNIMRDaoeTX95WaN9Fzo7tVu+etiSndTOZT9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caner\\OneDrive\\Masaüstü\\NOTES\\PATIKANETCORE\\Hello\\HelloWebapi\\HelloWebapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caner\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

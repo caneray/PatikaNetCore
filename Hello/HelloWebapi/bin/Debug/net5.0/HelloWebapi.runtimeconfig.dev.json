@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\caner\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\caner\\.nuget\\packages",
+      "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
+    ]
+  }
+}
